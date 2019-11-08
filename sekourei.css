@@ -1,0 +1,92 @@
+<@charset"UTF-8";>
+
+body {
+  font-family: "HiraginoSans-W3","游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,sans-serif;
+  margin: 0;
+}
+
+.topper{
+  width: auto;
+  height: 200px;
+  background-color: white;
+  border-bottom:  2px solid #979797;
+ }
+
+ .main{
+   background-color: white;
+   padding-left: 20px;
+   padding-top: 40px;
+ }
+
+body{
+  width: 800px;
+  margin:auto;
+  background-color: #D1F3FF;
+}
+
+img {
+  height: auto;
+  width: 350px;
+  margin: 20px;
+}
+
+.logo2{
+  height: auto;
+  width: 280px;
+  margin: 20px;
+}
+
+li {
+  float: left;
+  padding-left: 50px;
+  list-style-type: none;
+  font-size: 22px;
+}
+
+.TEL {
+  height: auto;
+  width: 300px;
+  float: right;
+  font-size: 18px;
+  margin: 30px;
+  color: #0D2D63;
+}
+
+h1 {
+  font-family: HiraginoSans-W5;
+  font-size: 24px;
+  color: #0D2D63;
+  margin: 0;
+}
+
+.contents {
+  width: auto;
+  height: 350px;
+}
+
+.contents p {
+  font-size: 18px;
+}
+
+
+.info {
+  height: auto;
+  width: 330px;
+  float: right;
+  margin-right: 100px;
+  margin-top: 30px;
+}
+
+.info li {
+  font-family: HiraginoSans-W4;
+  font-size: 13px;
+}
+
+.copy-right {
+  text-align: center;
+}
+
+.footer{
+border-top:  2px solid #979797;
+background-color: white;
+}
